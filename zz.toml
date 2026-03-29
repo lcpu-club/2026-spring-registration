@@ -1,0 +1,8 @@
+[about]
+name = "zz"
+avatar = "zz.png"
+hobbies = ["Eating", "Sleeping"]
+skills = ["C", "Python"]
+
+[social]
+github = "zzj8228"
