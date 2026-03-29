@@ -1,0 +1,9 @@
+[about]
+name = "Amber"
+avatar = "Abmer.jpg"
+hobbies = ["fitness", "💻 Programming", "🏸 Taekwondo]
+skills = ["LLM", "python", "painting", "caligraphy"]
+
+[social]
+github = "Amber"
+website = "https://amber.top"
