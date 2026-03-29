@@ -1,9 +1,9 @@
 [about]
 name = "Jonathan"
 avatar = "Jonathan.jpeg"
-hobbies = ["🎨 Desgin", "💻 Programming", "🏸 Badminton"]
-skills = ["C#", "Rust", "TypeScript", "Vue"]
+hobbies = ["Programming", "Ping Pong"]
+skills = ["sleeping", "Eating"]
 
 [social]
-github = "djdjz7"
+github = "Jonathan_HC"
 website = "https://djdjz7.top"
