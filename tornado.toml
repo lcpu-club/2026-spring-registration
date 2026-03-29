@@ -1,0 +1,9 @@
+[about]
+name = "tornado"
+avatar = "tornado.jpg"
+hobbies = ["Eating", "Sleeping", "Games", "Infra", "Literature"]
+skills = ["System", "Math"]
+
+[social]
+github = "Tornado1016"
+website = ""
