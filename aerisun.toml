@@ -1,0 +1,9 @@
+[about]
+name = "aerisun"
+avatar = "aerisun.jpg"
+hobbies = ["🍹 Hang out", "😴 Sleeping", "🤖 Vibe Coding"]
+skills = ["C", "Python"]
+
+[social]
+github = "aerisun"
+website = "https://aerisun.top"
