@@ -1,0 +1,8 @@
+[about]
+name = "hwa"
+avatar = "hwa.png"
+hobbies = ["💻 Programming", "📚 Reading"]
+skills = ["C#", "C++", "Python"]
+
+[social]
+github = "Chiahwa"
