@@ -1,0 +1,8 @@
+[about]
+name = "jennie-best"
+avatar = "hzh.png"
+hobbies = ["golfing", "🐧 Linux", "swimming"]
+skills = ["Linux", "Finance", "Rust", "TypeScript"]
+
+[social]
+github = "jennie-best"
